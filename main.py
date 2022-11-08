@@ -15,7 +15,7 @@ class Agent(object):
         self.url_for_posting_student = "https://xg.hit.edu.cn/zhxy-xgzs/xg_yqgl/mrsbNew/save"
         self.cookie = cookie
         # 通过信息发送模板自动填充应有的字段，从而实现对应
-        self.student_post_dict = {"XH": "1170800202", "RQ": "2022-10-17", "JZDZ": "", "KZL1": "1", "KZL2": "",
+        self.student_post_dict = {"XH": "0070800202", "RQ": "2022-10-17", "JZDZ": "", "KZL1": "1", "KZL2": "",
                                   "KZL3": "", "KZL4": "", "KZL5": "", "KZL6": "230000", "KZL7": "230100",
                                   "KZL8": "230103", "KZL9": "繁荣街153号", "KZL10": "黑龙江省哈尔滨市南岗区繁荣街153号",
                                   "KZL11": "", "KZL12": "", "KZL13": "3", "KZL14": "", "KZL15": "0", "KZL16": "",
